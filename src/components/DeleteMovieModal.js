@@ -1,5 +1,7 @@
 import React from 'react';
 
+// does anybody even look at these? "Delete Employee"? Clearly repurposed from another project or an older version of this project. Just looks sloppy...
+
 const DeleteMovieModal = () => {
     return (<div id="deleteEmployeeModal">
         <div className="modal-dialog">
